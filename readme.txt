@@ -7,4 +7,5 @@ I LOVE git.
 201610170125
 201610171338 change
 Creating a new branch is quick.201610181012
-Creating a new master branch is quick.201610181045
+Creating a new master and feached branch is quick.201610181042
+
